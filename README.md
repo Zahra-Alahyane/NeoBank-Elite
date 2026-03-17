@@ -87,7 +87,7 @@ src/
 
 ## 👩‍💻 Auteur
 
-Développé par **Zahra Alahyane**  
+Développé par **Zahra Alahyane et Asmae El Fakir**  
 Encadré par **M. Kamal El Hattab**
 
 ---
